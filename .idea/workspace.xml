@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="023793f6-afc0-4f14-9893-9d7b7eb3221a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-Strings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +14,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Py3_2_Bucky$1_Helloworld.coverage" NAME="1-Helloworld Coverage Results" MODIFIED="1526892145503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Py3_2_Bucky$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1526911922956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Py3_2_Bucky$2_Strings.coverage" NAME="2-Strings Coverage Results" MODIFIED="1526912145623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Py3_2_Bucky$2_Strings.coverage" NAME="2-Strings Coverage Results" MODIFIED="1526912300018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -28,11 +27,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calculator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Calculator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Calculator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2-Strings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2-Strings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="82" selection-start-line="1" selection-start-column="82" selection-end-line="1" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -54,6 +62,7 @@
       <list>
         <option value="$PROJECT_DIR$/1-Helloworld.py" />
         <option value="$PROJECT_DIR$/Calculator.py" />
+        <option value="$PROJECT_DIR$/2-Strings.py" />
       </list>
     </option>
   </component>
@@ -196,6 +205,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -245,6 +255,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="82" selection-start-line="1" selection-start-column="82" selection-end-line="1" selection-end-column="82" />
         </state>
       </provider>
     </entry>
