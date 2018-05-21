@@ -8,3 +8,5 @@ print(fullName)
 
 firstNameMultiplied = firstName * 5
 print(firstNameMultiplied)
+
+print(fullName.__len__())
